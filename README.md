@@ -12,8 +12,3 @@ Pre-requisites
 --------------
 
 - Complete [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) of Android Basics in Kotlin
-
-Additional
-----------
-
-Check out my developer profile [here](g.dev/vrjulianti)
